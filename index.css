@@ -21,7 +21,7 @@ h1{
 }
 
 @media (max-width: 400px) and (max-height: 800px){
-    
+
    body{
        background-color: blue;
    }
@@ -36,4 +36,8 @@ h1{
     grid-template-columns: 40% 40% 40%;
     margin-right: 10%;
 }
+}
+
+.emptyClass{
+    width: 100%;
 }
